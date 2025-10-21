@@ -1,14 +1,7 @@
-## Introduction to the G2D model
-G2D(Grid based 2-Dimensional land surface flood model)는 한국건설기술연구원에서 개발된 격자 기반의 2차원 지표면 침수해석 모형이다. G2D 모형의 개발 연혁은 다음과 같다.
+## G2D(Grid based 2-Dimensional land surface flood model)
 
-* G2D 모형은 2017년에 처음 개발되었다.
-* 2018년에는 모의 속도와 안정성이 향상되었다.
-* 2019년에는 QGIS plug-in으로 GUI가 개발되었다.
-* 2020년에는 C++로 작성된 G2D 모형이 개발되었다.
-* 2021년에는 NVIDIA GPU를 이용한 가속기법이 개발되었다.
-
-G2D 모형은 한국건설기술연구원에서 지속적으로 개발되고 있다.  
-<br/>  
+The model indroduction and the download guidelines are wiki page at https://github.com/floodmodel/G2D/wiki  
+<br/><br/>
 
 ## G2D GUI  
 * QGIS plug-in GUI인 QG2D를 이용할 수 있다.  
@@ -48,5 +41,9 @@ G2D 모형은 한국건설기술연구원에서 지속적으로 개발되고 있
 ## YouTube video clips
 - Data processing tools : [**[Link]**](https://www.youtube.com/watch?v=iC3Qa9iwcus&t=62s)  
 - The G2D model : [**[Link]**](https://www.youtube.com/watch?v=lnXc0Z8PRyY)  
-- Introduction to the GRM and G2D model (ETRI Open Source Tech Day 2021) : [**[Link]**](https://www.youtube.com/watch?v=OFRqzLPlD2Q)   
+- Introduction to the GRM and G2D model (ETRI Open Source Tech Day 2021) : [**[Link]**](https://www.youtube.com/watch?v=OFRqzLPlD2Q)
+
+- 
+# Update history
+The model updates and development history are available at https://github.com/floodmodel/G2D    
 
