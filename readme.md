@@ -5,7 +5,7 @@ The model indroduction and the download guidelines are wiki page at https://gith
 
 ## G2D GUI  
 * QGIS plug-in GUI인 QG2D를 이용할 수 있다.  
-  (https://github.com/floodmodel/Plugin_repository_QGIS3.10/tree/main/QG2D)
+  (https://github.com/floodmodel/Plugin_repository_QGIS3/tree/main/QG2D)
 * QG2D 설치 및 실행 방법은 QG2D tutorial을 참고한다.
   (https://github.com/floodmodel/G2D/blob/master/DownloadStableVersion/QG2D_tutorial.pdf)  
 <br/>  
@@ -18,7 +18,7 @@ The model indroduction and the download guidelines are wiki page at https://gith
 
 ### QG2D
 - G2D 모형의 QGIS plugin GUI  
-  https://github.com/floodmodel/Plugin_repository_QGIS3.10/tree/main/QG2D 에서 다운로드  
+  https://github.com/floodmodel/Plugin_repository_QGIS3/tree/main/QG2D 에서 다운로드  
 - QG2D 설치 및 사용 방법
   https://github.com/floodmodel/G2D/blob/master/DownloadStableVersion/QG2D_tutorial.pdf
 
