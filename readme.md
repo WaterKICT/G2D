@@ -42,8 +42,61 @@ The model indroduction and the download guidelines are wiki page at https://gith
 - Data processing tools : [**[Link]**](https://www.youtube.com/watch?v=iC3Qa9iwcus&t=62s)  
 - The G2D model : [**[Link]**](https://www.youtube.com/watch?v=lnXc0Z8PRyY)  
 - Introduction to the GRM and G2D model (ETRI Open Source Tech Day 2021) : [**[Link]**](https://www.youtube.com/watch?v=OFRqzLPlD2Q)
+<br/>  
 
-- 
 # Update history
 The model updates and development history are available at https://github.com/floodmodel/G2D    
+<br/>  
+O 2020.02
+ - G2D v2020 developed using C++ was released.
+ 
+O 2020.04 
+ - The compatibility with the project file(g2p) for G2D v2019 was added in G2D v2020.
+ 
+O 2020.06 
+ - The feature for sorting the output files by natural oder was added.
+ 
+O 2021.04
+ - G2D v2021.04 beta was released.
+ - The simulator using NVIDIA GPU was developed.
+ - The manuals and sample data were updated.
 
+O 2021.05
+ - The feature of setting decimal digits of printing simulation results was added.
+ - The manuals and sample data were updated.
+
+O 2021.06
+ - Minor bug in the calculation using GPU was fixed.
+ - The feature of printing the time series of simulation results for defined cells was added.
+ - The manuals and sample data were updated.
+
+O 2021.07
+ - Bug for the simulation with no boundary condition was fixed.
+ - The feature of calculating initial rainfall loss was added.
+
+O 2021.08
+ - Major bug fix in calculating boundary cell flow.  
+
+O 2022.05
+ - Update all revisions.
+ - Release G2D v.2022.04  
+
+O 2022.06
+ - Minor revision in error message.  
+
+O 2022.07
+ - Revision in reading ASC raster file as parallel.  
+ - Output file name as date time format was revised.  
+
+O 2022.09
+ - Revision in applying distributed rainfall data when using GPU.  
+ - Revision in using long folder path and file name.   
+
+O 2023.10
+ - Major bug fix in writing output files for velocity, discharge, and flow direction.  
+
+O 2024.09
+ - Major bug fix in treating super critical flow condition.  
+
+O 2025.02
+ - Revision in cell size (the case when the lengths of the sides of a right-angled quadrilateral are different is available) application. 
